@@ -102,9 +102,7 @@ A smart solution designed to improve parking management and provide a better par
 - AWS Cloud Practitioner
 - React Development
 - Spring Boot & MVC Architecture
-- Linux Essentials
-- Data Science Virtual Internship
-- Full Stack Development Internship
+- Microsoft Azure Fundamentals(AZ-900)
 
 ---
 
