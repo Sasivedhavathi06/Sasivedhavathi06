@@ -1,4 +1,4 @@
-# Hi, I'm Mannem Sasi Vedhavathi 👋
+# Hi, I'm Mannem Sasi Vedhavathi 
 
 🎓 B.Tech Computer Science Engineering Student  
 💻 Aspiring Software Developer  
